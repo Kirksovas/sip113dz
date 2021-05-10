@@ -1,0 +1,15 @@
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe.config
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.pdb
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csprojAssemblyReference.cache
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\MainWindow.g.cs
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\App.g.cs
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2_MarkupCompile.cache
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2_MarkupCompile.lref
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\MainWindow.baml
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.g.resources
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.Properties.Resources.resources
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csproj.GenerateResource.cache
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.exe
+C:\Users\Кристина\Documents\Палатову\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.pdb

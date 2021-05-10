@@ -1,0 +1,35 @@
+﻿<Window x:Class="Zadanie_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lb1" Content="Введите пароль" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tb_password" HorizontalAlignment="Left" Height="23" Margin="10,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="bt" Content="OK" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="75" Click="bt_Click"/>
+        <Label x:Name="lb2" Content="Здравствуйте! Срок сдачи работы" HorizontalAlignment="Left" Margin="169,18,0,0" VerticalAlignment="Top" BorderBrush="#FF7B8AE4" Background="White" Foreground="#FF3B78D9"/>
+        <Label x:Name="lb3" Content="Дни недели" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="80"/>
+        <DatePicker x:Name="date" HorizontalAlignment="Left" Margin="300,60,0,0" VerticalAlignment="Top" Width="190"/>
+        <ListBox x:Name="lib1" HorizontalAlignment="Left" Height="116" Margin="10,159,0,0" VerticalAlignment="Top" Width="100" SelectionChanged="lib1_SelectionChanged">
+            <ListBoxItem Content="Понедельник"/>
+            <ListBoxItem Content="Вторник"/>
+            <ListBoxItem Content="Среда"/>
+            <ListBoxItem Content="Четверг"/>
+            <ListBoxItem Content="пятница"/>
+        </ListBox>
+        <Button x:Name="bt2" Content="Изменить дату" HorizontalAlignment="Left" Margin="519,62,0,0" VerticalAlignment="Top" Width="103" Click="bt2_Click"/>
+        <Button x:Name="bt3" Content="Разрешить&#xD;&#xA;Редактирование" HorizontalAlignment="Left" Margin="10,280,0,0" VerticalAlignment="Top" Width="105" Height="50" Click="bt3_Click"/>
+        <Button x:Name="bt4" Content="Добавить строку" HorizontalAlignment="Left" Margin="233,264,0,0" VerticalAlignment="Top" Width="133" Height="32" Click="bt4_Click"/>
+        <Button x:Name="bt5" Content="Перенести" HorizontalAlignment="Left" Margin="474,270,0,0" VerticalAlignment="Top" Width="100" Height="32" Click="bt5_Click"/>
+        <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="23" Margin="233,236,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" TextChanged="tb1_TextChanged"/>
+        <Label x:Name="lb4" Content="Введите новую строку" HorizontalAlignment="Left" Margin="232,205,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lb5" Content="Перенесенные данные" HorizontalAlignment="Left" Margin="474,128,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lb_date1" Content="" HorizontalAlignment="Left" Margin="386,18,0,0" VerticalAlignment="Top" Foreground="#FF3B78D9"/>
+        <TextBox x:Name="tb2" HorizontalAlignment="Left" Height="106" Margin="474,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125" TextChanged="tb2_TextChanged"/>
+        <Label x:Name="lb_date" Content="" HorizontalAlignment="Left" Margin="371,18,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

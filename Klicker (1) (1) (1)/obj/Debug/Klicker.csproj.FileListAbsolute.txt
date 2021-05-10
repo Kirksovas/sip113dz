@@ -1,0 +1,75 @@
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\bin\Debug\Klicker.exe.config
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\bin\Debug\Klicker.exe
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\bin\Debug\Klicker.pdb
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker_MarkupCompile.cache
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker_MarkupCompile.lref
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.g.resources
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.Properties.Resources.resources
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.exe
+C:\Users\user\Desktop\Палатову С#\Кликер\Klicker\Klicker\obj\Debug\Klicker.pdb
+C:\Users\Кристина\Documents\Палатову\Klicker\bin\Debug\Klicker.exe.config
+C:\Users\Кристина\Documents\Палатову\Klicker\bin\Debug\Klicker.exe
+C:\Users\Кристина\Documents\Палатову\Klicker\bin\Debug\Klicker.pdb
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.csprojAssemblyReference.cache
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\MainWindow.g.cs
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\App.g.cs
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker_MarkupCompile.cache
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker_MarkupCompile.lref
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\MainWindow.baml
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.g.resources
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.Properties.Resources.resources
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.csproj.GenerateResource.cache
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.exe
+C:\Users\Кристина\Documents\Палатову\Klicker\obj\Debug\Klicker.pdb
+C:\Users\kirks\Desktop\Klicker (1)\bin\Debug\Klicker.exe.config
+C:\Users\kirks\Desktop\Klicker (1)\bin\Debug\Klicker.exe
+C:\Users\kirks\Desktop\Klicker (1)\bin\Debug\Klicker.pdb
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.csprojAssemblyReference.cache
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\MainWindow.g.cs
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\App.g.cs
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker_MarkupCompile.cache
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker_MarkupCompile.lref
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\MainWindow.baml
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.g.resources
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.Properties.Resources.resources
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.csproj.GenerateResource.cache
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.csproj.CoreCompileInputs.cache
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.exe
+C:\Users\kirks\Desktop\Klicker (1)\obj\Debug\Klicker.pdb
+C:\Users\студент\Desktop\Klicker (1) (1)\bin\Debug\Klicker.exe.config
+C:\Users\студент\Desktop\Klicker (1) (1)\bin\Debug\Klicker.exe
+C:\Users\студент\Desktop\Klicker (1) (1)\bin\Debug\Klicker.pdb
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\MainWindow.g.cs
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\App.g.cs
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker_MarkupCompile.cache
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker_MarkupCompile.lref
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\MainWindow.baml
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.g.resources
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.Properties.Resources.resources
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.exe
+C:\Users\студент\Desktop\Klicker (1) (1)\obj\Debug\Klicker.pdb
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.csprojAssemblyReference.cache
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\MainWindow.g.cs
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\App.g.cs
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker_MarkupCompile.cache
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker_MarkupCompile.lref
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.exe
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.pdb
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\bin\Debug\Klicker.exe.config
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\bin\Debug\Klicker.exe
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\bin\Debug\Klicker.pdb
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\MainWindow.baml
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.g.resources
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.Properties.Resources.resources
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.csproj.GenerateResource.cache
+C:\Users\kirks\Desktop\Klicker (1) (1) (1)\obj\Debug\Klicker.csproj.CoreCompileInputs.cache
